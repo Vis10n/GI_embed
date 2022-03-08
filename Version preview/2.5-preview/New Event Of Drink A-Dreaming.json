@@ -1,0 +1,18 @@
+{
+  "image": {
+    "url": "https://cdn.discordapp.com/attachments/917737770854801408/939232752371367956/event_3.png",
+    "proxy_url": "https://media.discordapp.net/attachments/917737770854801408/939232752371367956/event_3.png",
+    "width": 1467,
+    "height": 820
+  },
+  "fields": [
+    {
+      "name": "​",
+      "value": "Trong sự kiện này, Nhà Lữ Hành sẽ đảm nhận vai trò người pha chế tại quán rượu \"Quà Tặng Của Thiên Sứ\" của Diluc và phục vụ đồ uống cho những vị khách thân quen!\n\n Nhà Lữ Hành cần phát huy sự thông minh tài trí để thử nghiệm các công thức khác nhau\n Sau khi pha chế thành công một lần, công thức đồ uống chỉ định sẽ được mở khóa!\n Nhà Lữ Hành có thể thu thập công thức để mở khóa danh thiếp đặc biệt của sự kiện!\n\n Ngoài pha chế đồ uống ra, Nhà Lữ Hành sẽ có cơ hội gặp gỡ với một số nhân vật quen thuộc trong cốt truyện sự kiện bằng cách hoàn thành các giai thoại quán rượu tại Quà Tặng Của Thiên Sứ và thu thập các công thức đồ uống.",
+      "inline": false
+    }
+  ],
+  "color": 16306285,
+  "type": "rich",
+  "title": "Sự kiện mới: \"Một Ngụm Mộng Mơ\""
+}

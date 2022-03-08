@@ -1,0 +1,29 @@
+{
+  "thumbnail": {
+    "url": "https://media.discordapp.net/attachments/851513289917726730/950745208692289576/unknown.png",
+    "proxy_url": "https://media.discordapp.net/attachments/851513289917726730/950745208692289576/unknown.png",
+    "width": 277,
+    "height": 57
+  },
+  "fields": [
+    {
+      "name": "​",
+      "value": "Ngay từ khi mới sinh ra, con người đã có lòng hiếu kỳ và khát khao mãnh liệt đối với thế giới. Đó là khởi nguồn của tri thức, và là nền tảng của lý trí. Thế giới của người dân Inazuma cũng vậy. Nơi đây từ thuở ban đầu đã có gió mưa sấm sét, có biển lớn cùng bầu trời sáng rực... và có cả Raiden Shogun.",
+      "inline": false
+    },
+    {
+      "name": "​",
+      "value": "Trẻ con trước khi đi ngủ sẽ được mẹ kể cho nghe câu chuyện về Shogun chém ma thần bảo vệ lãnh thổ.\n Thiếu niên thiếu nữ chu du khắp quần đảo, chứng kiến nhát chém thịnh nộ tạo lập hẻm núi.\n Binh sĩ xông pha nơi tiền tuyến, miệng hô vang \"Shogun Trường Tồn, Vĩnh Hằng Bất Diệt\"",
+      "inline": false
+    },
+    {
+      "name": "​",
+      "value": "Bá tánh an cư lạc nghiệp, trong tim luôn kính trọng Shogun và Hiệp Hội Tam Cực dưới trướng.\n Uy danh của \"Raiden Shogun\" sớm đã thoát khỏi phàm trần, trở thành tín ngưỡng được kế thừa mãi mãi tại Inazuma.\n Với sức mạnh và uy danh này, người dân có lý do để tin rằng, đời sau của họ cũng sẽ trải qua cảnh vật tương tự, tín ngưỡng tương tự, thế giới tương tự, trải dài thiên thu vạn tuế.\n Đó chính là... vùng đất vĩnh hằng mà Shogun đại nhân đã hứa với người dân.",
+      "inline": false
+    }
+  ],
+  "color": 9649866,
+  "type": "rich",
+  "description": "Là Tôn Chủ Narukami Ogosho đại nhân, đưa người dân Inazuma hướng đến sự \"vĩnh hằng\" ngàn năm không đổi.",
+  "title": "Câu chuyện"
+}

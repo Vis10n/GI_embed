@@ -1,0 +1,18 @@
+{
+  "image": {
+    "url": "https://cdn.discordapp.com/attachments/917737770854801408/939233944677810256/event_4.png",
+    "proxy_url": "https://media.discordapp.net/attachments/917737770854801408/939233944677810256/event_4.png",
+    "width": 1466,
+    "height": 826
+  },
+  "fields": [
+    {
+      "name": "​",
+      "value": "Nhà Lữ Hành đã chơi sự kiện Hyakunin Ikki kỳ đầu tiên chắc hẳn đã khá quen thuộc với sự kiện này!\n Chúng ta sẽ cần tổ đội gồm hai nhân vật, dựa theo thứ tự để thay đổi đội ra trận khiêu chiến.\n Khi đổi đội hoặc đánh bại kẻ địch, sẽ tích luỹ điểm nhiệt tình để tăng bậc \"Nhiệt Huyết\" và cung cấp thêm khả năng chiến đấu mạnh mẽ hơn cho nhân vật.\n\n Điểm khác biệt với kỳ đầu tiên là, trong sự kiện sẽ thêm nhân vật dùng thử và tuyệt kỹ mới cho các bạn sử dụng, từ đó dễ dàng ứng phó với khiêu chiến lần này.",
+      "inline": false
+    }
+  ],
+  "color": 11892118,
+  "type": "rich",
+  "title": "Sự kiện mới: “Hyakunin Ikki”"
+}
