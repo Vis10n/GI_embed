@@ -1,0 +1,24 @@
+{
+  "image": {
+    "url": "https://images-ext-1.discordapp.net/external/0TvYd9PkV8Gz5cgbBGNkLco6_PpEVrNUNFjwqXTMZuk/%3Fwidth%3D970%26height%3D567/https/media.discordapp.net/attachments/798440202568859668/887576341204074506/088fd23f42a2dd13aaf788bfa191d4fd_94394663411626979.gif",
+    "proxy_url": "https://images-ext-2.discordapp.net/external/3TJYR2E5SVMtVOSyIvJxkXe7Fq75SjDpJ1Fz9K8wEac/https/images-ext-1.discordapp.net/external/0TvYd9PkV8Gz5cgbBGNkLco6_PpEVrNUNFjwqXTMZuk/%253Fwidth%253D970%2526height%253D567/https/media.discordapp.net/attachments/798440202568859668/887576341204074506/088fd23f42a2dd13aaf788bfa191d4fd_94394663411626979.gif",
+    "width": 970,
+    "height": 567
+  },
+  "thumbnail": {
+    "url": "https://media.discordapp.net/attachments/872187930251247660/887616836995280896/791151162921189386.png",
+    "proxy_url": "https://images-ext-1.discordapp.net/external/hZViHU8foeYG4uFayXYwffvj1o_GWUSLkK0ubxZMhnI/https/media.discordapp.net/attachments/872187930251247660/887616836995280896/791151162921189386.png",
+    "width": 119,
+    "height": 119
+  },
+  "fields": [
+    {
+      "name": "Trọng Kích",
+      "value": "Tiêu hao thể lực nhất định, sau tiếng ngân, gây sát thương phạm vi nguyên tố Thủy <:VisionHydro:725173420190597184>",
+      "inline": false
+    }
+  ],
+  "color": 5941246,
+  "type": "rich",
+  "title": "🐟 Tấn công thường: Hình dạng nước trong"
+}

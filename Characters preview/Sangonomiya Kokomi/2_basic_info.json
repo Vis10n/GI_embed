@@ -1,0 +1,38 @@
+{
+  "image": {
+    "url": "https://cdn.discordapp.com/attachments/843593435729494056/878616954695479326/ezgif.com-gif-maker_25.gif",
+    "proxy_url": "https://media.discordapp.net/attachments/843593435729494056/878616954695479326/ezgif.com-gif-maker_25.gif",
+    "width": 600,
+    "height": 338
+  },
+  "thumbnail": {
+    "url": "https://cdn.discordapp.com/attachments/587673289560817858/867713473323728896/unknown.png",
+    "proxy_url": "https://media.discordapp.net/attachments/587673289560817858/867713473323728896/unknown.png",
+    "width": 277,
+    "height": 302
+  },
+  "author": {
+    "name": "Trí Tuệ Trân Châu"
+  },
+  "fields": [
+    {
+      "name": "Thông tin lồng tiếng:",
+      "value": "**EN:** Risa Mei\n **JP:** Suzuko Mimori (三森すずこ)\n **CH:** Guiniang (龟娘)\n **KR:** Yeo Yun-mi (여윤미)",
+      "inline": false
+    },
+    {
+      "name": "Thông tin nhân vật:",
+      "value": "**Vision:** <:VisionHydro:725173420190597184> Thủy\n**Thuộc:** Đảo Watatsumi\n**Vùng Đất:** Inazuma\n**Vũ khí:** <:Weapon_Catalyst:791151162921189386> Pháp khí\n**Cung mệnh:** Cung Miên Long\n**Độ hiếm:** ⭐⭐⭐⭐⭐",
+      "inline": false
+    },
+    {
+      "name": "Video quảng bá:",
+      "value": "🐟 [Video nhân vật Sangonomiya Kokomi - Ý Nguyện Biển Xanh](https://www.youtube.com/watch?v=OizK-VT4aj8)",
+      "inline": false
+    }
+  ],
+  "color": 5940990,
+  "type": "rich",
+  "description": "\"Thánh Pháp Sư\" của đảo Watatsumi, là thủ lĩnh tối cao của đảo Watatsumi.\n Mọi người thường cho rằng Sangonomiya Kokomi là một thủ lĩnh đa mưu túc trí, thâm sâu khó dò. Vì cô ấy luôn nở một nụ cười điềm tĩnh trên môi, trong khi cười nói thì đã sắp xếp hết mọi chuyện một cách vô cùng thỏa đáng.",
+  "title": "**Sangonomiya Kokomi**"
+}

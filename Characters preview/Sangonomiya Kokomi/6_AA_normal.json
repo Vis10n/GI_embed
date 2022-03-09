@@ -1,0 +1,24 @@
+{
+  "image": {
+    "url": "https://images-ext-1.discordapp.net/external/x1ckFgdhfv7y0V4SQp-p3H9wCm8cGdQkAg9bbvjj5FE/https/media.discordapp.net/attachments/798440202568859668/887576166419025950/c158fedbb7c5f0e5634afe1f9ddda6ea_1990616338054627810.gif",
+    "proxy_url": "https://images-ext-1.discordapp.net/external/sRK_M5lOvf7GWo6i5towcLDO2Ig11r7eXnOQooe8Akg/https/images-ext-1.discordapp.net/external/x1ckFgdhfv7y0V4SQp-p3H9wCm8cGdQkAg9bbvjj5FE/https/media.discordapp.net/attachments/798440202568859668/887576166419025950/c158fedbb7c5f0e5634afe1f9ddda6ea_1990616338054627810.gif",
+    "width": 672,
+    "height": 393
+  },
+  "thumbnail": {
+    "url": "https://media.discordapp.net/attachments/872187930251247660/887616836995280896/791151162921189386.png",
+    "proxy_url": "https://images-ext-1.discordapp.net/external/hZViHU8foeYG4uFayXYwffvj1o_GWUSLkK0ubxZMhnI/https/media.discordapp.net/attachments/872187930251247660/887616836995280896/791151162921189386.png",
+    "width": 119,
+    "height": 119
+  },
+  "fields": [
+    {
+      "name": "Tấn Công Thường",
+      "value": "Dùng cá tạo thành bởi nước để thực hiện tối đa 3 lần tấn công, gây sát thương nguyên tố Thủy <:VisionHydro:725173420190597184>",
+      "inline": false
+    }
+  ],
+  "color": 5941246,
+  "type": "rich",
+  "title": "🐟 Tấn công thường: Hình dạng nước trong"
+}
