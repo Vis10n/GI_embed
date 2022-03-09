@@ -1,0 +1,39 @@
+{
+  "image": {
+    "url": "https://cdn.discordapp.com/attachments/879069624187093032/945620855172526170/unknown.png",
+    "proxy_url": "https://media.discordapp.net/attachments/879069624187093032/945620855172526170/unknown.png",
+    "width": 695,
+    "height": 227
+  },
+  "thumbnail": {
+    "url": "https://cdn.discordapp.com/attachments/917737770854801408/940931569470812170/111111.png",
+    "proxy_url": "https://media.discordapp.net/attachments/917737770854801408/940931569470812170/111111.png",
+    "width": 587,
+    "height": 551
+  },
+  "fields": [
+    {
+      "name": "Lần đầu gặp mặt...",
+      "value": "Tôi là Guuji của Đền Narukami, lần này ghé thăm là để xác nhận nhất cử nhất động của cưng, đây là mệnh lệnh của đền thần... Haha, không cần căng thẳng, chỉ là nói cho có lệ thôi, như vậy mới có lý do chính đáng để nghỉ ngơi đó mà. Mau lên, làm vài chuyện thú vị cho tôi xem chơi đi.",
+      "inline": false
+    },
+    {
+      "name": "Về bản thân Yae Miko - Thú Vị",
+      "value": "Con người rất thú vị, cho nên tôi mới thích con người. Rõ ràng sinh mệnh rất ngắn, nhưng lại toả ra hào quang rực rỡ. Có một số người, thậm chí trải qua một khoảng thời gian rất dài đi nữa thì hào quang của họ vẫn không phai mờ. Được chúng kiến những cuộc đời như vậy là một chuyện đáng vui mừng.\n\n**Khi tuyết rơi...**\nNhững con hồ ly nhỏ sẽ luôn cấm đầu xuống tuyết để tìm thức ăn... muốn thấy tôi làm như thế sao? Còn lâu nhé.",
+      "inline": false
+    },
+    {
+      "name": "Bí mật",
+      "value": "**Sở thích của Yae Miko...**\nTôi thích nhất là câu chuyện của người khác, thích thứ hai là thần sắc phiền não của người ta. Nếu như cả hai ở chung một chổ, hờ, thật sự rất thú vị đấy.\n\n**Những kiến thức thú vị...**\nTuy rằng ở Đền Narukami ngày nào ngẳng đầu lên cũng thấy được, đôi lúc cũng cảm thấy nhàm chán. Nhưng cây Anh Đào Thần đó dù sao cũng là vật gắn kết trong vận mệnh của tôi rồi.",
+      "inline": false
+    },
+    {
+      "name": "Món ăn ghét...",
+      "value": "\"Tôi không thích ăn những món ướp, nhất là các loại cá ướp, mùi hôi của chúng thật sự rất khó chịu! Tôi thân là Guuji của Đền Narukami, làm sao có thể nuốt nổi những thứ dơ bẩn đó chứ.\"",
+      "inline": false
+    }
+  ],
+  "color": 13860996,
+  "type": "rich",
+  "title": "Lồng Tiếng & Bí Mật"
+}

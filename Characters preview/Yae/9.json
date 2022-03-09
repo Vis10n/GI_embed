@@ -1,0 +1,25 @@
+{
+  "image": {
+    "url": "https://media.discordapp.net/attachments/798440202568859668/941322912076550204/YaeElemetanlSkill.gif",
+    "proxy_url": "https://images-ext-1.discordapp.net/external/4R3gaygXpcygPF08oJ23ZEfCctiG3KJ9s2BHnKgv3K8/https/media.discordapp.net/attachments/798440202568859668/941322912076550204/YaeElemetanlSkill.gif",
+    "width": 700,
+    "height": 396
+  },
+  "thumbnail": {
+    "url": "https://media.discordapp.net/attachments/798440202568859668/941322518067806248/YaeElemetalSkill.png",
+    "proxy_url": "https://images-ext-2.discordapp.net/external/6AMnXq29oKRRcf86O9zYVMazutuZ1E0lkpGWhZw5JNI/https/media.discordapp.net/attachments/798440202568859668/941322518067806248/YaeElemetalSkill.png",
+    "width": 85,
+    "height": 85
+  },
+  "fields": [
+    {
+      "name": "Sesshou Sakura",
+      "value": "· Cứ cách một thời gian sẽ giáng sét xuống 1 kẻ địch ở xung quanh, gây **Sát thương nguyên tố Lôi** <:VisionElectro:725173420148654170> .\n· Khi gần đó có Sesshou Sakura khác, sẽ tăng bậc cho chúng để tăng sát thương của đòn tấn công nêu trên.\n\nCó thể sử dụng 3 lần.\nTối đa tồn tại cùng lúc 3 Sesshou Sakura, Sesshou Sakura khi vừa khỏi tạo sẽ có bậc 1, tối đa tăng đến bậc 3. Nếu vị trí khởi tạo có cự ly quá gần với Sesshou Sakura đã có, sẽ tiêu huỷ Sesshou Sakura đã có.",
+      "inline": false
+    }
+  ],
+  "color": 14254469,
+  "type": "rich",
+  "description": "Di chuyển nhanh và để lại một \"Sesshou Sakura\".",
+  "title": "Thần Chú Yakan: Sesshou Sakura"
+}
