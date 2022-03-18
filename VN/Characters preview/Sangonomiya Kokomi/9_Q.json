@@ -1,0 +1,25 @@
+{
+  "image": {
+    "url": "https://images-ext-2.discordapp.net/external/775gRFQ3zAySi8kYODuD5YQhkxEGZcCfUxdRWWlclYQ/https/media.discordapp.net/attachments/798440202568859668/887586271034224681/d50d09ef1e841a4f878de2d4e43392b6_6909142575009314523.gif",
+    "proxy_url": "https://images-ext-1.discordapp.net/external/QBvi37cLf44XBsS0q5EDRah5aIrLRa7cljU9jF8tORw/https/images-ext-2.discordapp.net/external/775gRFQ3zAySi8kYODuD5YQhkxEGZcCfUxdRWWlclYQ/https/media.discordapp.net/attachments/798440202568859668/887586271034224681/d50d09ef1e841a4f878de2d4e43392b6_6909142575009314523.gif",
+    "width": 540,
+    "height": 325
+  },
+  "thumbnail": {
+    "url": "https://media.discordapp.net/attachments/872187930251247660/887622970250522664/887583189927886860.png",
+    "proxy_url": "https://images-ext-1.discordapp.net/external/Acl7PDhcpI5Jm1Q0w4tK1MfS4a23_r9Rdy5afU4RWQc/https/media.discordapp.net/attachments/872187930251247660/887622970250522664/887583189927886860.png",
+    "width": 74,
+    "height": 74
+  },
+  "fields": [
+    {
+      "name": "Lễ Phục Nghi Thức",
+      "value": "• Giúp Sangonomiya Kokomi tăng sát thương tấn công thường, trọng kích và sát thương do kỹ năng nguyên tố Vầng Trăng Biển gây ra, mức gia tăng sẽ dựa vào giới hạn HP của Kokomi; \n • Khi tấn công thường và trọng kích trúng kẻ địch sẽ hồi HP cho tất cả nhân vật trong đội gần đó, lượng hồi phục sẽ dựa vào giới hạn HP của Kokomi; \n • Tăng khả năng kháng gián đoạn của Sangonomiya Kokomi, đồng thời khiến cô ấy có thể di chuyển trên mặt nước. \n Hiệu quả sẽ mất khi Sangonomiya Kokomi rời trận.",
+      "inline": false
+    }
+  ],
+  "color": 5941246,
+  "type": "rich",
+  "description": "Triệu hồi sức mạnh của Watatsumi, gây sát thương nguyên tố Thủy <:VisionHydro:725173420190597184> cho kẻ địch xung quanh, đồng thời tạo ra \"Lễ Phục Nghi Thức\" cho Kokomi.",
+  "title": "🐟 Nghi Lễ Nereid"
+}

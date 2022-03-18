@@ -1,0 +1,18 @@
+{
+  "image": {
+    "url": "https://cdn.discordapp.com/attachments/917737770854801408/939230773716844644/event_1.png",
+    "proxy_url": "https://media.discordapp.net/attachments/917737770854801408/939230773716844644/event_1.png",
+    "width": 1471,
+    "height": 825
+  },
+  "fields": [
+    {
+      "name": "​",
+      "value": "Sự kiện này sẽ tập trung vào việc khám phá một khu vực sự kiện thuộc Enkanomiya!\n\nNhà Lữ Hành sẽ phải đối mặt trước sự xâm nhập của bóng tối bí ẩn trong một cách chơi sự kiện hoàn toàn mới.\n\nTrong quá trình khám phá, Nhà Lữ Hành sẽ nhận được một đạo cụ nhỏ hỗ trợ thám hiểm có tên là Hộp Bokuso. Đạo cụ này sẽ giúp chúng ta kháng xâm nhập và đẩy lùi bóng tối!\n\nNhà Lữ Hành tham gia sự kiện sẽ có cơ hội nhận được nhiều phần thưởng, bao gồm Nguyên Thạch, nguyên liệu đột phá vũ khí v.v.\n\n\nNgoài ra, còn bao gồm một pháp khí 4 sao mới - **\"Con Ngươi Tuyên Thệ\"**, \nVà nguyên liệu tinh luyện của nó - **\"Dầu Cá Thị Lực\"**",
+      "inline": false
+    }
+  ],
+  "color": 1052968,
+  "type": "rich",
+  "title": "Sự kiện mới: \"Nghi Lễ Cổng Tam Giới\""
+}

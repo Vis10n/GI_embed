@@ -1,0 +1,25 @@
+{
+  "image": {
+    "url": "https://images-ext-1.discordapp.net/external/dw_da7z95ggEkXPLFLgissuaszwqaA663ZdEXVkTkO8/https/media.discordapp.net/attachments/798440202568859668/887579131049545759/Kurage.gif",
+    "proxy_url": "https://images-ext-1.discordapp.net/external/1azliG8yXs1uUGLizmYzZXbg3EJ5yEPzc8718W-M6jU/https/images-ext-1.discordapp.net/external/dw_da7z95ggEkXPLFLgissuaszwqaA663ZdEXVkTkO8/https/media.discordapp.net/attachments/798440202568859668/887579131049545759/Kurage.gif",
+    "width": 700,
+    "height": 392
+  },
+  "thumbnail": {
+    "url": "https://media.discordapp.net/attachments/872187930251247660/887620548681678848/887583172454412308.png",
+    "proxy_url": "https://images-ext-1.discordapp.net/external/ODTXoK6MgKdjGRhngcsa2CIDzKRb0pkbmlpH9gDr_jA/https/media.discordapp.net/attachments/872187930251247660/887620548681678848/887583172454412308.png",
+    "width": 74,
+    "height": 74
+  },
+  "fields": [
+    {
+      "name": "Vầng Trăng Biển",
+      "value": "Cứ cách một khoảng thời gian sẽ gây sát thương nguyên tố Thủy cho kẻ địch xung quanh và hồi HP cho nhân vật đang trong trận ở xung quanh, lượng hồi phục dựa vào giới hạn HP của Sangonomiya Kokomi.",
+      "inline": false
+    }
+  ],
+  "color": 5941246,
+  "type": "rich",
+  "description": "Triệu hồi \"Vầng Trăng Biển\" chữa trị cho đồng đội. Khi thi triển sẽ khiến Sangonomiya Kokomi vào trạng thái Ẩm Ướt.",
+  "title": "🐟 Lời Thề Ánh Trăng Biển"
+}

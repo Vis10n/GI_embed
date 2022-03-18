@@ -1,0 +1,18 @@
+{
+  "image": {
+    "url": "https://cdn.discordapp.com/attachments/917737770854801408/939219727513960448/story.png",
+    "proxy_url": "https://media.discordapp.net/attachments/917737770854801408/939219727513960448/story.png",
+    "width": 1469,
+    "height": 818
+  },
+  "fields": [
+    {
+      "name": "​",
+      "value": "Phiên bản 2.5 sẽ mang đến cho chúng ta phần tiếp theo của Nhiệm Vụ Truyền Thuyết Raiden Shogun:\n**\"Chương Thiên Hạ Nhân - Màn II\"**\nCũng như Nhiệm Vụ Truyền Thuyết hoàn toàn mới của Yae Miko: **\"Chương Tiên Hồ\"**. \n\nNhà lữ hành sẽ có thể mở khóa \"Chương Tiên Hồ\" của Yae Miko sau khi hoàn thành màn thứ hai Nhiệm Vụ Truyền Thuyết Raiden Shogun.\n\nCả hai nhiệm vụ sẽ có sẵn sau bản cập nhật Phiên bản 2.5 vào ngày 16 tháng 2.",
+      "inline": false
+    }
+  ],
+  "color": 10304330,
+  "type": "rich",
+  "title": "Nhiệm Vụ Truyền Thuyết Mới"
+}

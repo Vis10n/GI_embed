@@ -1,0 +1,26 @@
+{
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/S71sh48SaHc/maxresdefault.jpg",
+    "proxy_url": "https://images-ext-1.discordapp.net/external/o5k7VdheyD-nRgx77kZ6IauR0ySjc-uflFBNDd3BwQo/https/i.ytimg.com/vi/S71sh48SaHc/maxresdefault.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  "video": {
+    "url": "https://www.youtube.com/embed/S71sh48SaHc",
+    "width": 1280,
+    "height": 720
+  },
+  "provider": {
+    "name": "YouTube",
+    "url": "https://www.youtube.com"
+  },
+  "author": {
+    "name": "Genshin Impact",
+    "url": "https://www.youtube.com/channel/UCiS882YPwZt1NfaM0gR0D9Q"
+  },
+  "color": 16711680,
+  "type": "video",
+  "description": "The ancient Sacred Sakura stands on the peak of Mt. Yougou, its roots running long and deep into the earth, stretching endlessly.\nUnderneath its shadow, there are people who wholeheartedly wish for blessings, a kitsune who is amused at the floating world, and a god who yearns for transient eternity.\nEverything in this world changes, people come ...",
+  "url": "https://www.youtube.com/watch?v=S71sh48SaHc",
+  "title": "Version 2.5 \"When the Sakura Bloom\" Trailer | Genshin Impact"
+}

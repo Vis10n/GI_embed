@@ -1,0 +1,33 @@
+{
+  "image": {
+    "url": "https://cdn.discordapp.com/attachments/587673289560817858/863640632051367976/Kokomimi.gif",
+    "proxy_url": "https://media.discordapp.net/attachments/587673289560817858/863640632051367976/Kokomimi.gif",
+    "width": 640,
+    "height": 360
+  },
+  "fields": [
+    {
+      "name": "​",
+      "value": "Kokomi từ nhỏ đã đọc hiểu binh thư các nước, có tài thao lược quân sự vô cùng xuất sắc, và có khả năng đánh bại đối thủ bằng những mưu kế thông minh. Mặc dù đảo Watatsumi thiếu nhân lực và tài nguyên, may nhờ có những chiến thuật tài tình của Kokomi, mới có thể nhiều lần chuyển nguy thành an. Trong mọi vấn đề như đối nội, thương mại, ngoại giao và giám sát, Kokomi đều sẽ nỗ lực hết sức mình. Những thành tích đó đã giúp cô được mọi người trên đảo Watatsumi vô cùng tin tưởng.",
+      "inline": false
+    },
+    {
+      "name": "​",
+      "value": "\"Yên tâm, có đại nhân Sangonomiya ở đây\", câu nói này đã trở thành lời nói thường trực trên môi của người dân đảo Watatsumi.",
+      "inline": false
+    },
+    {
+      "name": "​",
+      "value": "Nhưng trên thực tế, ít ai biết rằng ước mơ lớn nhất của Kokomi chỉ là trở thành một quân sư ẩn sau hậu trường. Đối với cô, trò chuyện với mọi người là một việc vô cùng tốn sức, mỗi khi phát biểu tay cô sẽ vô thức run lên, khi đối mặt với công việc bộn bề cũng sẽ nảy sinh ý nghĩ muốn thoái lui. Điều hạnh phúc nhất đối với cô mỗi ngày là được ở nhà sau khi hoàn thành công việc và vùi đầu vào những cuốn binh thư của mình.",
+      "inline": false
+    },
+    {
+      "name": "​",
+      "value": "Tuổi trẻ đã leo lên vị trí cao là cả một sự may mắn đối với nhiều người. Nhưng đối với Kokomi, càng lên cao lại càng giống như đang bước đi trên lớp băng mỏng.",
+      "inline": false
+    }
+  ],
+  "color": 5941246,
+  "type": "rich",
+  "title": "Trí tuệ trân châu"
+}
