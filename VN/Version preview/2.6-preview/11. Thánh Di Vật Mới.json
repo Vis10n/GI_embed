@@ -1,0 +1,23 @@
+{
+  "embeds": [
+    {
+      "image": {
+        "url": "https://images-ext-1.discordapp.net/external/jM2EyBWUt0vgQbJaAf2dm-TgCOGXRmaXDLBqF5bSW48/%3Fwidth%3D937%26height%3D525/https/media.discordapp.net/attachments/917737770854801408/954852710539223131/5.png?width=810&height=454"
+      },
+      "fields": [
+        {
+          "value": "Bộ 2 món: Tấn công tăng 18%. \n\nBộ 4 món: Khi tấn công thường đánh trúng kẻ địch, sẽ có 36% tỷ lệ kích hoạt \"Nghi Lễ Vực Thẳm\": Tăng sát thương do tấn công thường gây ra, lượng tăng thêm bằng 70% tấn công; 0.05s sau khi tấn công thường gây ra sát thương, hiệu quả này sẽ biến mất. Khi tấn công thường chưa kích hoạt \"Nghi Lễ Vực Thẳm\", sẽ tăng 20% tỷ lệ kích hoạt lần sau, hiệu ứng này tồn tại trong 0.2s.",
+          "name": "Dư Âm Tế Lễ",
+          "inline": false
+        },
+        {
+          "value": "Bộ 2 món: Tấn công tăng 18%. \n\nBộ 4 món: Sau khi thi triển kỹ năng nộ, sẽ sinh ra hiệu quả \"Ánh Sáng Ngầm\" duy trì 16s: Tăng 8% tấn công; đồng thời khi nhân vật bị giảm HP, sẽ tiếp tục tăng 10% tấn công, tối đa tăng 4 lần bằng cách này, mỗi 0.8s tối đa kích hoạt 1 lần. Hiệu quả \"Ánh Sáng Ngầm\" sẽ biến mất khi nhân vật rời trận; thi triển kỹ năng nộ lần nữa khi đang trong thời gian duy trì, sẽ xóa \"Ánh Sáng Ngầm\" đã có.",
+          "name": "Thần Sa Vãng Sinh Lục",
+          "inline": false
+        }
+      ],
+      "color": 4411530,
+      "title": "Thánh Di Vật Mới"
+    }
+  ]
+}
