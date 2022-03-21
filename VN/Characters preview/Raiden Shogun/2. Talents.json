@@ -1,0 +1,59 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Thiên phú",
+      "description": "**Tấn công thường - Origin**",
+      "color": 10551495,
+      "fields": [
+        {
+          "name": "⚡Tấn công thường",
+          "value": "Thực hiện tối đa 5 lần đánh liên tiếp."
+        },
+        {
+          "name": "⚡Trọng kích",
+          "value": "Tiêu hao thể lực nhất định để chém nhanh về phía trước."
+        },
+        {
+          "name": "⚡Tấn công khi đáp",
+          "value": "Đáp xuống đất từ trên không, tấn công kẻ địch trên đường đi và gây sát thương phạm vi khi chạm đất."
+        }
+      ],
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/872187930251247660/880549983118557214/ezgif.com-gif-maker_42.gif"
+      }
+    },
+    {
+      "title": "Thần Biến - Ánh Chớp Tà Ác",
+      "description": "Raiden Shogun khai mở Tịnh Thổ, gây sát thương nguyên tố Lôi cho kẻ địch xung quanh, khiến tất cả nhân vật trong đội gần đó nhận trạng thái \"Con Mắt Lôi Phạt\".",
+      "color": 10813638,
+      "fields": [
+        {
+          "name": "Con Mắt Lôi Phạt",
+          "value": "• Khi nhân vật nhận hiệu ứng Con Mắt Lôi Phạt tấn công gây sát thương cho kẻ địch, Con Mắt Lôi Phạt sẽ hợp lực tấn công, gây Sát Thương phạm vi nguyên tố Lôi ở vị trí kẻ địch.\n\n • Nhân vật nhận được Con Mắt Lôi Phạt,trong thời gian hiệu ứng này tồn tại sẽ tăng sát thương kỹ năng nộ, mức độ tăng tùy theo năng lượng nguyên tố của kỹ năng nộ.\n Con Mắt Lôi Phạt của mỗi đội, mỗi 0.9s tối đa tiến hành hợp lực tấn công một lần.\n Nhân vật khác trong đội (không phải bản thân) kích hoạt hợp lực tấn công sẽ tạo ra sát thương bằng 20% sát thương gốc."
+        }
+      ],
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/872187930251247660/880550370085044254/ezgif.com-gif-maker_44.gif"
+      }
+    },
+    {
+      "title": "Bí Kỹ - Mộng Tưởng Chân Thuyết",
+      "description": "Tích tụ ngàn vạn chân ngôn, dùng hết Ý Lực Ước Nguyện Chakra, chém ra Mộng Tưởng Nhất Đao hủy diệt tất cả lời nguyền, gây sát thương phạm vi nguyên tố Lôi; Đồng thời sử dụng \"Mộng Tưởng Nhất Tâm\" để chiến đấu trong khoảng thời gian tiếp theo. Tăng sát thương mà Mộng Tưởng Nhất Đao và Mộng Tưởng Nhất Tâm gây ra dựa trên số tầng Ý Lực của Ước Nguyện Chakra tiêu hao khi thi triển.",
+      "color": 11010245,
+      "fields": [
+        {
+          "name": "⚡Mộng Tưởng Nhất Tâm",
+          "value": "Trong trạng thái này, Raiden Shogun dùng đao để tấn công, sát thương gây ra từ tấn công thường, trọng kích, tấn công khi đáp sẽ chuyển hóa thành sát thương nguyên tố Lôi không thể bị đính kèm thay thế, đồng thời khi đánh trúng kẻ địch sẽ hồi phục năng lượng nguyên tố cho tất cả nhân vật trong đội ở gần. Mỗi 1s tối đa hồi năng lượng nguyên tố một lần theo cách này, tối đa kích hoạt 5 lần trong thời gian duy trì trạng thái."
+        },
+        {
+          "name": "​",
+          "value": "Trong thạng thái này, Raiden Shogun sẽ tăng khả năng kháng gián đoạn, đồng thời miễn dịch sát thương phản ứng Điện Cảm. Trong trạng thái Mộng Tưởng Nhất Tâm, sát thương gây ra từ tấn công thường, trọng kích, tấn công khi đáp của Raiden Shogun sẽ được xem là sát thương kỹ năng nộ.\n Hiệu quả Mộng Tưởng Nhất Tâm sẽ bị xóa khi Raiden Shogun rời trận."
+        }
+      ],
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/872187930251247660/880397189447290950/ezgif.com-gif-maker_6.gif"
+      }
+    }
+  ]
+}
