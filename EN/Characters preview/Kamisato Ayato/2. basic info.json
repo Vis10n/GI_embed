@@ -1,0 +1,38 @@
+{
+  "embeds": [
+    {
+      "image": {
+        "url": "https://media.discordapp.net/attachments/917737770854801408/954854007116013648/Ayato_Intro.gif"
+      },
+      "fields": [
+        {
+          "name": "​",
+          "value": "As the head of the Yashiro Commission, Kamisato Ayato is committed to maintaining the prosperity and stability of the region.\n\nAt a glance, he is low-profile and graceful. He is not a fan of public appearances and does not seek to show his skills overtly.\n\nBut those who do know him understand that he is not to be underestimated. Long ago, when the Yashiro Commission fell on hard times, and when the Kamisato Clan was on the verge of crumbling, it was this young man who rose to the occasion and stabilized the situation.",
+          "inline": false
+        },
+        {
+          "name": "​",
+          "value": "He could not have achieved his position without extraordinary resourcefulness and cunning. But perhaps, that impenetrable smile belies darker waves.\n\nHowever, the most intriguing thing is that in most of these negotiations in which he participates, he is not ruthless nor competitive, and is even willing to share the benefits so that everyone can get a relatively satisfactory piece of the pie.\n\n\"What exactly is he up to?\" is usually what people are thinking after all is said and done.\n\nHowever, now that everyone has a piece of that pie, perhaps what is on Kamisato Ayato's mind isn't so important.",
+          "inline": false
+        },
+        {
+          "name": "Voice Artists:",
+          "value": "EN: Chris Hackney\nJP: ISHIDA Akira (石田 彰)\nCN: Zhaolu (赵路)\nKR: Jang Min-hyeok (장민혁)",
+          "inline": false
+        },
+        {
+          "name": "Character Information:",
+          "value": "Vision: <:VisionHydro:725173420190597184>  Hydro\nAffiliation: Head of the Kamisato Clan\nRegion: Inazuma\nWeapon: <:Weapon_Sword:791151180675416066> Sword\nConstellation: Cypressus Custos\nRarity: :star::star::star::star::star:",
+          "inline": false
+        },
+        {
+          "name": "Promotional Videos:",
+          "value": "TBA...",
+          "inline": false
+        }
+      ],
+      "color": 7054309,
+      "title": "Pillar of Fortitude\n\n**Kamisato Ayato**"
+    }
+  ]
+}
