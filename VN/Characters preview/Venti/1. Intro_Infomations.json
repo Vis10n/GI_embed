@@ -1,0 +1,59 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Venti",
+      "color": 4302947,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/587885245127458816/955376663510802473/unknown.png"
+      }
+    },
+    {
+      "title": "Venti",
+      "description": "Nhà thơ tự do có lai lịch không rõ ràng. Có lúc cất lên những lời thơ cũ kỹ, có khi lại hát những bài hát mà chưa ai từng nghe.\n\nThích táo và không khí náo nhiệt, ghét phô mai cùng những thứ dinh dính.\n\nKhi dẫn dắt Nguyên Tố \"Phong\", Nguyên Tố thường có hình dạng lông vũ, bởi anh ấy thích nhìn những thứ bay nhẹ nhàng.",
+      "color": 4302947,
+      "fields": [
+        {
+          "name": "Thông tin lồng tiếng:",
+          "value": "EN: Erika Harlacher\nJP: Ayumu Murase (村瀬歩)\nCN: Miaojiang (喵酱)\nKR: Jung Yoo-jung (정유정)"
+        },
+        {
+          "name": "Thông tin nhân vật:",
+          "value": "Gnosis: <:VisionAnemo:725173419133370390> Anemo\nThuộc: Thành Mondstadt\nKhu vực: Mondstadt\nVũ khí: <:Weapon_Bow:791151153738940436> Bow\nCung mệnh: Cung Ca Tiên\nĐộ hiếm: ⭐⭐⭐⭐⭐"
+        },
+        {
+          "name": "Video quảng bá:",
+          "value": "[Video nhân vật Venti - \"Tứ Phương Chi Phong\"](https://www.youtube.com/watch?v=SH3H8ycW53A)\n[Giới thiệu nhân vật Genshin Impact - Venti: Công việc của nhà thơ](https://www.youtube.com/watch?v=TSsWsCdiiPI)\n[Genshin Impact - Venti: \"Bài Ca Trời Cao\"](https://www.youtube.com/watch?v=uwNXNHazS-I)"
+        }
+      ],
+      "author": {
+        "name": "Nhà Thơ Có Màu Của Gió"
+      },
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/587673289560817858/955251537570070578/videoplayback.gif"
+      }
+    },
+    {
+      "title": "Về Venti...",
+      "description": "<:VisionHydro:725173420190597184> `Barbara` Giọng của Venti rất hay! Có điều, những bài hát của anh ấy rất khác với phong cách của tôi. Tôi đã thử học... nhưng giai điệu thực sự rất phức tạp.\n\n<:VisionCryo:725173419456462855> `Diona` Venti? Không quen lắm. Nhưng nói đến nhà thơ, thì chính là những người hát mua vui cho những kẻ nghiện rượu đó. Vậy thì không thích! Không thích, không thích.\n\n<:VisionCryo:725173419456462855> `Eula` Nhà thơ đó có hát qua vài bài, kể những câu chuyện của nhà Lawrence với ngôn từ châm biếm, đến tôi cũng phải bật cười... Thù này, tôi sẽ ghi lại.\n\n<:VisionCryo:725173419456462855> `Rosaria` Nhà thơ này có một khí chất vô cùng đặc biệt...tôi chưa xác định được chân tướng, nhưng anh ấy có vẻ không giống với những cư dân khác.\n\n<:VisionHydro:725173420190597184> `Mona` Venti ư? Có phải là nhà thơ lang thang không có việc gì để làm không? Haiz, anh ta có gì đáng để chú ý tới sao? Để tôi bốc một quẻ xem thế nào...\nÍ, bàn bói nước bị sao thế này... Tại sao không nhìn rõ được nhỉ, sao đột nhiên lại nổi gió khiến tôi không thể mở mắt ra nhìn! Á, mũ của tôi! Còn quần áo nữa, đều bị gió thổi bay mất rồi! Mau trả lại cho tôi! Hừm, thôi tôi không xem nữa đâu!\n\n<:VisionElectro:725173420148654170> `Razor` Thơ... ừm, không hiểu. Mặc dù không hiểu, Lupical thích.\n\n<:VisionAnemo:725173419133370390> `Xiao` Venti...? Thì ra là vậy, tên là Venti à. Ca khúc mà anh ấy biểu diễn... không, không có gì.\n\n<:VisionGeo:725174020831444994> `Zhongli` Khụ... Mùi rượu nồng quá. Nhà thơ đó vừa mới đến đây phải không, cái tên nhà thơ say xỉn hoàn toàn không hợp với hai từ nho nhã đó mà! Bạn đây...bị hắn lừa uống rượu, giờ không còn tỉnh táo nữa rồi sao... Chờ một chút tôi sẽ pha một bình trà \"giải rượu\", chỉ cần ba canh giờ thôi là sẽ khỏi. Đợi tí nhé...\n\n<:VisionElectro:725173420148654170> `Raiden Shogun` Hiện thân của Phong Thần đã lấy tên này sao? Nói thật thì khi lần đầu gặp mặt, tôi đã có cảm giác không hợp nhau rồi. Nhưng có sự thật là tửu lượng của anh ta rất tốt.",
+      "color": 4302947,
+      "author": {
+        "name": "Bài ca trời cao"
+      }
+    },
+    {
+      "title": "Lồng tiếng",
+      "description": "**Hello**\nOáp, ngủ ngon quá. Aiz, xin chào, Nhà Lữ Hành, chúng ta lại gặp nhau rồi. Hả? Không nhớ tôi á? Hì hì, vậy thì để tôi tham gia vào hành trình của bạn một lần nữa nào. Bài thơ của bạn xứng đáng được người ngâm thơ tuyệt vời nhất thế gian như tôi ngân nga!\n\n**Gió lớn quá...**\nHiếm khi được như thế, muốn bay không nào?\n\n**Nói chuyện phiếm - Rượu táo**\nỪm... Muốn ngồi trên cây cao, trong tay cầm rượu táo uống mãi không hết quá. Haiz.",
+      "color": 4302947,
+      "fields": [
+        {
+          "name": "Bí mật",
+          "value": "**Về bản thân Venti...**\nLuyện tập? Tôi đương nhiên không cần rồi, ở Teyvat này không có khúc ca nào mà tôi không biết hát.\n\n**Về chúng tôi - Bài hát mới**\nTôi muốn đưa bạn vào ca khúc mới! Ể, sao lại trưng vẻ mặt này ra, sợ không trả nổi nhuận bút à? Ha ha, Mora thì không cần đâu, hay là... Kể chuyện của bạn cho tôi nghe đi!\n\n**Sở thích của Venti...**\nTôi thích rượu! Cả gió nữa! Ừm, nếu như có thể dùng gió để ủ rượu thì hay quá.\n\n**Món ăn yêu thích**\nBạn ăn táo không, vừa hái đấy. Rốp... vừa giòn vừa ngọt, táo đúng là quà của thần mà!"
+        }
+      ],
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/emojis/787019166976704542.webp?size=240&quality=lossless"
+      }
+    }
+  ]
+}

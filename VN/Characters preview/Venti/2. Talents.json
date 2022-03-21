@@ -1,0 +1,60 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "title": "Thiên phú",
+        "color": 4302947,
+        "fields": [
+          {
+            "name": "Nguyên liệu Đột phá Nhân vật:",
+            "value": "<:VayudaTurquoiseFragment:926146907892510760> Mảnh Tùng Thạch Tự Tại\n<:HurricaneSeed:955261563609182208> Hạt Giống Bão\n<:Cecilia:927024636540112947> Hoa Cecilia\n<:SlimeCondensate:926147184037077072> Dịch Slime"
+          },
+          {
+            "name": "Nguyên liệu Nâng cấp Thiên phú:",
+            "value": "<:TeachingsofBallad:926151960267194388> Bài Giảng của Thơ Văn\n<:SlimeCondensate:926147184037077072> Dịch Slime\n<:TailofBoreas:955259909841252422> Lông Vũ Bắc Phong"
+          }
+        ]
+      },
+      {
+        "title": "Tấn Công Thường: Xạ Thuật Của Thần",
+        "description": "Thực hiện tối đa 6 lần bắn tên liên tiếp.",
+        "color": 4302947,
+        "fields": [
+          {
+            "name": "Trọng Kích",
+            "value": "Sát thương càng cao, ngắm bắn càng chuẩn.\n\n Khi ngắm bắn, gió sẽ tích tụ trên mũi tên. Mũi tên đầy gió sẽ gây <:VisionAnemo:725173419133370390> **Sát Thương Nguyên Tố Phong.**."
+          }
+        ],
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/587673289560817858/955283478981775380/ATK.gif"
+        },
+        "thumbnail": {
+          "url": "https://uploadstatic-sea.mihoyo.com/hk4e/e20200928calculate/skill_icon_ufc43b/386bcbc5237fb4cbaf8cdf53a63c2bcf.png"
+        }
+      },
+      {
+        "title": "Bài Ca Trời Cao",
+        "description": "Triệu hồi ngọn gió kết hợp thơ và nhạc, cuốn mọi thứ trong bụi mù lên không trung.\n\n**Nhấn**\n Tại vị trí của mục tiêu gọi ra **ngọn gió**, gây <:VisionAnemo:725173419133370390> **Sát Thương Nguyên Tố Phong** và đánh bay địch.\n\n**Nhấn Giữ**\n Lấy bản thân làm trung tâm gọi ra ngọn gió, gây <:VisionAnemo:725173419133370390> **Sát Thương Nguyên Tố Phong** và đánh bay địch.\n Sau khi nhấn giữ, Venti cưỡi gió bay lên không trung.  Địch bị Bài Ca Trời Cao đánh bay, trong thời gian ngắn sẽ rơi chậm.",
+        "color": 4302947,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/587673289560817858/955284711616446474/E.gif"
+        }
+      },
+      {
+        "title": "Bài Thơ Thần Gió",
+        "description": "Bắn ra mũi tên được tạo thành từ hàng nghìn ngọn gió, tạo thành bão lớn, cuốn địch vào, duy trì gây <:VisionAnemo:725173419133370390> **Sát Thương Nguyên Tố Phong** .\n\n**Chuyển Hóa Nguyên Tố**\n Nếu cơn bão trong thời gian duy trì kỹ năng có tiếp xúc nguyên tố Thủy/Hỏa/Băng/Lôi, sẽ nhận được thuộc tính nguyên tố tương ứng, tạo thêm sát thương thuộc tính.\n Chuyển hóa nguyên tố chỉ phát sinh 1 lần.",
+        "color": 4302947,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/587673289560817858/955283476691689522/Q_2.gif"
+        }
+      },
+      {
+        "title": "Thiên phú Cố định: Đi theo cơn gió",
+        "description": "Giảm 20% tiêu hao thể lực nhân vật của bản thân trong đội khi bay lượn.\nĐối với buff Thiên Phú cố định có hiệu quả hoàn toàn giống sẽ không thể cộng dồn.",
+        "color": 4302947,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/587673289560817858/955264719332188191/Passive.gif"
+        }
+      }
+    ]
+  }
