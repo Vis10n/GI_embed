@@ -1,0 +1,86 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "title": "Thiên Phú",
+        "description": "Kamisato Ayato là nhân vật gây sát thương có tính chu kỳ.\n\nAnh ấy có thể dùng **Shunsuiken** nhanh chóng thực hiện liên tiếp các đòn tấn công gây **Sát thương nguyên tố Thủy <:VisionHydro:725173420190597184>** phạm vi rộng trong thời gian ngắn. Đồng thời sẽ dựng lên **Khu Vườn Thanh Tịnh**, liên tục giáng xuống **Thủy Hoa Kiếm** tấn công kẻ địch trong phạm vi, và tăng sát thương tấn công thường cho nhân vật trong phạm vi.",
+        "color": 7054309,
+        "fields": [
+          {
+            "name": "Nguyên liệu đột phá:",
+            "value": "<:VarunadaLazuriteFragment:926147658752606238> Mảnh Thanh Kim Sạch\n<:DewofRepudiation:926183061614362674> Giọt Nước Bài Trừ\n<:SakuraBloom:926151007879184454> Tú Cầu Anh Đào\n<:OldHandguard:926149500261781595> Kiếm Cách Cũ Nát",
+            "inline": true
+          },
+          {
+            "name": "Nguyên liệu tăng cấp thiên phú",
+            "value": "<:TeachingsofElegance:926151645014929420> Bài Giảng của \"Nhã Nhặn\"\n<:OldHandguard:926149500261781595> Kiếm Cách Cũ Nát\n<:MudraoftheMaleficGeneral:956415159088336947> Thủ Ấn Hung Tướng",
+            "inline": true
+          }
+        ]
+      },
+      {
+        "title": "Trường Phái Kamisato: Marobashi",
+        "color": 7054309,
+        "fields": [
+          {
+            "name": "Tấn Công Thường",
+            "value": "Thực hiện tối đa 5 lần đánh kiếm liên tiếp."
+          },
+          {
+            "name": "Trọng Kích",
+            "value": "Tiêu hao thể lực nhất định, xung kích về phía trước và thi triển Iai"
+          },
+          {
+            "name": "Tấn Công Khi Đáp",
+            "value": "Đáp xuôgns đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+          }
+        ],
+        "author": {
+          "name": "Tấn Công Thường"
+        },
+        "image": {
+          "url": "https://media.discordapp.net/attachments/872187930251247660/955733522692321350/ezgif.com-gif-maker_3.gif"
+        },
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/emojis/791151180675416066.webp?size=128&quality=lossless"
+        }
+      },
+      {
+        "title": "Trường Phái Kamisato - Kyouka",
+        "description": "Kamisato Ayato thay đổi vị trí và vào trạng thái **Takimeguri Kanka**\nSau khi di chuyển, Ayato sẽ để lại **Thủy Ảnh** ở vị trí ban đầu. **Thủy Ảnh** khi khởi tạo hoàn thành sẽ phát nổ khi có kẻ địch đến gần hoặc sau khi kết thúc thời gian duy trì, gây ** <:VisionHydro:725173420190597184> Sát Thương Phạm Vi Nguyên Tố Thủy**",
+        "color": 7054309,
+        "fields": [
+          {
+            "name": "Takimeguri Kanka",
+            "value": "Trong trạng thái này, Kamisato Ayato sẽ sử dụng **Shunsuiken** để tấn công nhanh, chuyến hóa sát thương đòn đánh thường thành ** <:VisionHydro:725173420190597184> Sát Thương Phạm Vi Nguyên Tố Thủy** không thể bị thay thế.\nNgoài ra, còn có những hiệu quả sau:\n- **Shunsuiken** sau khi đánh trúng kẻ địch sẽ cung cấp cho Kamisato Ayato hiệu quả \"**Namisen**\", tăng sát thương của Shunsuiken gây ra dựa vào HP tối đa của Kamisato Ayato. Ban đầu **Namisen** có thể cộng dồn tối đa 4 tầng, mỗi 0.1s tối đa nhận 1 tầng từ **Shunsuiken**, trạng thái sẽ biến mất khi **Takimeguri Kanka** kết thúc.\n- Tăng khá năng kháng gián đoạn của Kamisato Ayato\n- Không thể sử dụng trọng kích và tấn công khi đáp.\nTrạng thái **Takimeguri Kanka** sẽ biến mất khi Kamisato Ayato rời trận; Khi dùng lại **Trường Phái Kamisato - Kyouka** trong trạng thái Takimeguri Kanka, sẽ xóa bỏ trạng thái **Takimeguri Kanka** đã có"
+          }
+        ],
+        "author": {
+          "name": "Kỹ năng Nguyên Tố"
+        },
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/920328031090909214/956515649256046682/skill_ayato.gif"
+        },
+        "thumbnail": {
+          "url": "https://images-ext-1.discordapp.net/external/swUnUyVUPW2jrBV7TWbidlDD8Z4rjSAA6CURODBVD8Q/https/media.discordapp.net/attachments/872187930251247660/955745874238111754/image-removebg-preview3.png"
+        }
+      },
+      {
+        "title": "Trường Phái Kamisato - Suiyuu",
+        "description": "Dựng lên khu vườn thanh tịnh, dập tắt mọi sự ồn ào.\n Trong thời gian tồn tại sẽ liên tục giáng xuống Thủy Hoa Kiếm tấn công kẻ địch trong phạm vi, gây ** <:VisionHydro:725173420190597184> Sát Thương Nguyên Tố Thủy**, đồng thời tăng sát thương tấn công thường cho nhân vật trong đó.",
+        "color": 7054309,
+        "author": {
+          "name": "Kỹ năng Nộ"
+        },
+        "footer": {
+          "text": "\"Thấy rồi đó, nhịp tim của ngươi trên mặt nước tĩnh lặng này.\""
+        },
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/920328031090909214/956515649943904256/burst_ayato.gif"
+        },
+        "thumbnail": {
+          "url": "https://media.discordapp.net/attachments/872187930251247660/955745857930686474/image-removebg-preview2.png"
+        }
+      }
+    ]
+  }
