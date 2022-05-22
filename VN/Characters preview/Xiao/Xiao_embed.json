@@ -1,0 +1,101 @@
+﻿{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Tam Nhãn Ngũ Hiển Tiên Nhân - Xiao, đến bảo vệ theo lời triệu tập.",
+      "url": "https://www.hoyolab.com/article/152814",
+      "color": 3775643,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/851513289917726730/977850783032823818/1653208173429.png"
+      }
+    },
+    {
+      "title": "Về Xiao...",
+      "description": "Kim bằng giả, hiệu \"Kim Sí Bằng Vương\", hựu viết \"Hàng Ma Đại Thánh\". Bất tri kỳ thuỷ, bất tri kì chung. \n\nDuy xuân hạ đăng tế, vọng phù quang vu cô vân các thượng, lệ nguyệt dân viết: \"Thử hộ pháp dạ xoa thảo ma dã.\"\n\nHoặc văn địch âm xuất vu địch châu, tầm chi bất kiến kỳ nhân, viết: \"Thị dạ xoa hoán cựu hữu quy hỷ.\"",
+      "color": 3775643,
+      "fields": [
+        {
+          "name": "Thông Tin Lồng Tiếng",
+          "value": "EN: Laila Berzins\nJP: Yoshitsugu Matsuoka (松岡禎丞)\nCN: kinsen\nKR: Sim Kyu-hyuk (심규혁)"
+        },
+        {
+          "name": "Thông Tin Nhân Vật",
+          "value": "Vision: <:VisionAnemo:725173419133370390> Phong\nThuộc: Tiên Nhân\nKhu vực: Liyue\nVũ Khí: <:Weapon_Polearm:791151145409445940> Vũ Khí Cán Dài\nCung Mệnh: Cung Kim Sí Bằng Vương\nĐộ hiếm:⭐⭐⭐⭐⭐"
+        },
+        {
+          "name": "Video Quảng Bá",
+          "value": "[Giới thiệu nhân vật trong Genshin Impact - Xiao: Lịch Kiếp Diệt Ác](https://www.youtube.com/watch?v=sjozpa9DsZU)\n[Xiao: Hàng Ma Đại Thánh](https://www.youtube.com/watch?v=kCmvCpYL34U)\n[Cốt Truyện Genshin Impact - Hộ Pháp Tiên Chúng Dạ Xoa\n](https://www.youtube.com/watch?v=Wv-Tr-sSoCs)"
+        }
+      ],
+      "author": {
+        "name": "Hàng Ma Đại Thánh"
+      },
+      "image": {
+        "url": "https://media.discordapp.net/attachments/917737770854801408/925164808809091152/ezgif.com-gif-maker_30.gif"
+      }
+    },
+    {
+      "title": "Xiao",
+      "description": "Anh ta luôn giữ khoảng cách với người khác, chắc là do tính cách... Tôi có thể hiểu được anh ấy, nhưng không thể \"tiếp cận\". Dù gì... người bạn đồng hành đã cùng anh ấy thực hiện một bản \"khế ước\" giờ đây đã không còn nữa... — `Ganyu` <:VisionCryo:725173419456462855>\n\nBạn nhắc đến tiên nhân trẻ tuổi ở Quy Li Nguyên... Anh ấy vẫn đang thực hiện nhiệm vụ của mình cho đến ngày nay... Hãy giúp tôi mang cho anh ấy viên \"Liên Lý Trấn Tâm Tán\" này. Không được để Paimon ăn mất đó, đây là thuốc... dược tính của nó không thích hợp với người thường. — `Zhongli` <:VisionGeo:725174020831444994>\n\nTiên nhân trẻ tuổi trong truyền thuyết cũng nên buông bỏ gánh nặng của mình, vì hiện nay con người đã có thể tự cai trị thế giới của mình. Con người đã không cần sự bảo vệ như vậy nữa, ngay cả khi gặp phải vấn đề nan giải, chúng tôi cũng có khả năng tự mình giải quyết. — `Keqing` <:VisionElectro:725173420148654170>\n\nỒ nghe như là món đồ rất cổ... \nTôi đã gặp anh ấy rồi ư...? — `Qiqi` <:VisionCryo:725173419456462855>\n\nCó một năm vào đêm trước Tết Hải Đăng, hạm đội trên đường về thì gặp bão, phải vội vã quay lại cảng Liyue ngay trong đêm. Lúc đó hải đăng đã tắt rồi, nhưng tôi lại nhìn thấy một tiên nhân có hình dáng như thiếu niên bay lơ lửng trên không ở hướng của Cô Vân Các. Có lẽ giống như lời đồn, cũng có người đang bảo vệ cảng Liyue ở một nơi xa mà mọi người không nhìn thấy. — `Beidou` <:VisionElectro:725173420148654170>",
+      "color": 3775643,
+      "author": {
+        "name": "Hộ Pháp Dạ Xoa Đại Tướng"
+      }
+    },
+    {
+      "title": "Câu Chuyện",
+      "color": 3775643,
+      "fields": [
+        {
+          "name": "ㅤ",
+          "value": "Mặc dù ngoại hình là một chàng trai trẻ, nhưng Xiao đã có hơn hai nghìn tuổi. Cũng may không có ai xem nhẹ anh vì vẻ ngoài, chỉ cần tiếp xúc, ai cũng có thể cảm nhận được người thiếu niên này là một nhân vật tàn nhẫn. — Nguy hiểm, ít nói, ánh mắt sắc bén như dao.\n\nMặc dù vai vế và danh vọng của Xiao ở tiên giới đều rất cao, nhưng ở nhân gian, danh tiếng của anh dường như không được nhiều người biết đến.Bởi vì anh ta không phải phúc tinh mang lại phú quý, điềm lành, cũng không phải thánh thần nắm giữ tiên đạo sống ở Tuyệt Vân Gián.\n\nNgười nhìn thấy Xiao thi triển thần thông, chắc chắn thập tử nhất sinh, nguy hiểm cực độ. Không phải Xiao muốn hại người, mà là vì Xiao liên tục chiến đấu với thế lực bóng tối có thể nuốt chửng ánh đèn của hàng vạn gia đình ở Liyue, người thường chứng kiến cuộc chiến, khó tránh khỏi bị liên lụy. Dĩ nhiên, đây cũng chẳng phải bí mật cần phải diệt khẩu gì cả."
+        }
+      ],
+      "thumbnail": {
+        "url": "https://media.discordapp.net/attachments/917737770854801408/925162909372411934/Screenshot_1-removebg-preview.png"
+      }
+    },
+    {
+      "title": "Lồng Tiếng",
+      "description": "**Lần Đầu Gặp Mặt**\nNếu gặp khó khăn vì lạc bước giữa đồng hoang, vì kẻ xấu chặn đường, vì chiến tranh khốc liệt, vì quỷ thần hung tàn, vì thú dữ trùng độc, vì kẻ thù ác ôn, hãy gọi tên tôi.\nTam Nhãn Ngũ Hiển Tiên Nhân - Xiao, đến bảo vệ theo lời triệu tập.\n\n**Về bản thân Xiao...**\nTôi không phải con người, không hiểu lắm tình cảm của loài người.\n\n**Nỗi buồn của Xiao**\nPhiền não? Haiz... Câu hỏi này không có chút ý nghĩa nào với tiên nhân, chẳng có phiền não nào có thể tồn tại ngàn năm cả.\n\n**Bí Mật**\n**Món ăn yêu thích - Đậu Hũ Hạnh Nhân**\nTôi không hứng thú với đồ ăn của nhân gian. Nấu nướng phiền phức, đợi chờ quá lâu. Chỉ duy nhất món Đậu Hũ Hạnh Nhân là có thể miễn cưỡng ăn được.\n\n**Khi tuyết rơi...**\nSau khi tuyết rơi dày, có thể đào để ăn rồi.",
+      "color": 3775643,
+      "thumbnail": {
+        "url": "https://media.discordapp.net/attachments/917737770854801408/925163551360954368/Screenshot_2-removebg-preview.png"
+      }
+    },
+    {
+      "title": "Thiên Phú",
+      "description": "**Nguyên liệu Đột phá Nhân vật**\n<:VayudaTurquoiseFragment:926146907892510760> Vụn Tùng Thạch Tự Tại\n<:JuvenileJade:926175348389990531> Ngọc Chưa Chín\n<:Qingxin:926148622645600300> Thanh Tâm\n<:SlimeCondensate:926147184037077072> Dịch Slime\n\n**Nguyên liệu Đột phá Thiên Phú**\n<:TeachingsofProsperity:926121021185097728> Bài Giảng Của \"Phồn Vinh\"\n<:SlimeCondensate:926147184037077072> Dịch Slime\n<:ShadowoftheWarrior:926156533639819314> Linh Hồn Võ Luyện - Cô Độc\n\n**Tấn Công Thường: Cuốn Quét Bụi Trần**\n Thực hiện tối đa 6 lần đánh liên tiếp.\n\n**Trọng Kích**\n Tiêu hao thể lực nhất định để tấn công hướng lên trên.",
+      "color": 3775643,
+      "image": {
+        "url": "https://media.discordapp.net/attachments/587673289560817858/926174694619635713/Xiao.gif"
+      },
+      "thumbnail": {
+        "url": "https://images-ext-1.discordapp.net/external/y_mK7OwSh_d6JX0zf_3QdzatF7-PSAlRjQk-CJZPNIQ/https/uploadstatic-sea.mihoyo.com/hk4e/e20200928calculate/skill_icon_ufc43b/8d4cc4b4871a9d3c69ff6b740e55bc40.png"
+      }
+    },
+    {
+      "title": "Đôi Bánh Xé Gió",
+      "description": "Lao đến cực nhanh, gây **sát thương nguyên tố Phong <:VisionAnemo:725173419133370390>** cho kẻ địch trên đường.\n\n Có thể thi triển trên không trung.\n Ban đầu có 2 lần sử dụng.",
+      "color": 3775643,
+      "image": {
+        "url": "https://media.discordapp.net/attachments/587673289560817858/926174693436850206/Xiao2.gif"
+      },
+      "thumbnail": {
+        "url": "https://images-ext-2.discordapp.net/external/YLqyDnENP1GolHfXZXRiIrZ1ei4_HDa-tHcm6xvhc5A/https/uploadstatic-sea.mihoyo.com/hk4e/e20200928calculate/skill_icon_ufc43b/91161a09b856695434136171c1ae8e07.png"
+      }
+    },
+    {
+      "title": "Vũ Điệu Trừ Yêu",
+      "description": "Phơi bày **Mặt Nạ Dạ Xoa** mà hàng nghìn năm trước đã khiến yêu ma quỷ quái run sợ.\n\n**Mặt Nạ Dạ Xoa**\nTăng khả năng nhảy của Xiao.\n Tăng phạm vi tấn công và sát thương.\nChuyển sát thương thành **sát thương nguyên tố Phong <:VisionAnemo:725173419133370390>**, chuyển hóa nguyên tố này không thể bị đính kèm thay thế.\n\n Ở trạng thái này, Xiao sẽ liên tục mất HP.\n Hiệu quả sẽ mất khi Xiao rời trận.",
+      "color": 3775643,
+      "image": {
+        "url": "https://media.discordapp.net/attachments/587673289560817858/926174696045686824/Xiao3.gif"
+      },
+      "thumbnail": {
+        "url": "https://images-ext-1.discordapp.net/external/BBIvEAh0cE1STGmYTwkgsbSuSr-7ivHThw_hAZEVfBY/https/uploadstatic-sea.mihoyo.com/hk4e/e20200928calculate/skill_icon_ufc43b/f81832c584c256c8dc2ddf53b9a2909c.png"
+      }
+    }
+  ],
+  "attachments": []
+}
