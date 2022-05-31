@@ -3,35 +3,87 @@
   "embeds": [
     {
       "title": "Trời đất mênh mông, khách đến rồi đi",
+      "url": "https://www.hoyolab.com/article/4942779",
       "color": 7644898,
       "image": {
-        "url": "https://upload-os-bbs.hoyolab.com/upload/2022/03/28/1015537/f57fd65469adf8b19013b850e7776d20_2695659224580199129.jpg?x-oss-process=image/auto-orient,0/interlace,1/format,jpg"
+        "url": "https://upload-os-bbs.hoyolab.com/upload/2022/05/25/1015537/32dc36db367fe1bfa9ce5aca68f96106_2324706820340271931.jpg?x-oss-process=image/auto-orient,0/interlace,1/format,jpg"
       }
     },
     {
+      "description": "**Lan Sinh U Cốc**",
       "color": 7644898,
       "fields": [
         {
-          "name": "**Lan Sinh U Cốc**",
+          "name": "Về Yelan...",
           "value": "Thân phận của Yelan luôn là ẩn số.\n\nCô giống như một hồn ma, thường xuất hiện ở trung tâm của đủ mọi sự kiện trong các dáng vẻ khác nhau, và biến mất không dấu vết trước khi gió bão ngừng lại.\n\nNhững người bị cuốn vào rắc rối rất mong được gặp cô ấy. Không biết tại sao, đa số họ đều cho rằng cô ấy sẽ giúp mình, và tệ hơn, còn muốn cô ấy trở thành đồng minh của mình.\n\nNhưng rắc rối ở chỗ, đối thủ của họ cũng có suy nghĩ giống hệt như vậy.\n\nMỗi người trong số họ đều từng gặp Yelan mang tên họ và thân phận khác nhau, ai cũng cho rằng mình đã đạt được hợp tác với cô ấy, ai cũng đều bị qua mắt.\n\nCô ấy rốt cuộc muốn giúp đỡ ai? Khi nào cô ấy mới nói ra sự thật?\n\nMột khi cô ấy bắt đầu động não và tham gia vào sự việc, sẽ không bao giờ có lời nói thật.\n\nĐến khi cô ấy cởi bỏ thân phận giả, trở nên thành thật, thì những người khao khát đáp án kia chắc không có cơ hội nghe nữa rồi."
         },
         {
           "name": "Thông Tin Lồng Tiếng",
-          "value": "EN:\nJP:\nCN:\nKR:"
+          "value": "EN: Laura Post\nJP: Endou Aya (遠藤 綾)\nCN: Xu Hui (徐慧)\nKR: Min-a (민아)"
         },
         {
           "name": "Thông Tin Nhân Vật",
-          "value": "Vision: <:VisionHydro:725173420190597184> Thuỷ\nThuộc: Nhân sĩ thần bí tự xưng làm việc cho Tổng Vụ\nRegion: \nVũ Khí:\nCung Mệnh: Cung U Khách\nĐộ Hiếm:"
+          "value": "Vision: <:VisionHydro:725173420190597184> Thuỷ\nThuộc: Tiệm Trà Trên Đá\nKhu Vực: Liyue\nVũ Khí: <:Weapon_Bow:791151153738940436> Cung\nCung Mệnh: Cung U Khách\nĐộ Hiếm:⭐⭐⭐⭐⭐"
         },
         {
           "name": "Video Quảng Bá",
-          "value": "TBA"
+          "value": "[Video nhân vật Yelan - Lưới Trời Lồng Lộng](https://www.youtube.com/watch?v=nEX4Umn5Bx8)"
         }
-      ]
+      ],
+      "image": {
+        "url": "https://media.discordapp.net/attachments/587673289560817858/978942384303931392/Yelan_Preview.gif"
+      }
     },
     {
-      "title": "Về Yelan...",
+      "title": "Yelan",
       "description": "<:VisionPyro:725178213944262716> `Yanfei` Bạn đang tìm Yelan à...Ừm, tôi rất muốn khuyên bạn hãy coi cô ấy như người bình thường, nhưng nếu thật sự làm như vậy, lại dễ mất kiểm soát trong cuộc đàm phán. Có những việc quả nhiên vẫn phải xem ấn tượng của cô ấy về bạn.\n\n<:VisionPyro:725178213944262716> `Xiangling` Chị Yelan sao? Tôi dĩ nhiên nhớ rồi. Khi lần đầu gặp mặt tôi còn nghĩ chị ấy thích ăn món thanh đạm, nhưng không ngờ chị ấy là người ăn cay giỏi nhất tôi từng thấy đó! Vị cay trong món ăn thôi còn chưa đủ, chị ấy còn ăn nguyên trái Ớt Tuyệt Vân luôn! Thật lợi hại.\n\n<:VisionCryo:725173419456462855> `Chongyun` Khi tôi vừa hành nghề phương sĩ, có nhận được ủy thác trừ tà, khi rời khỏi đó tôi có gặp qua cô ta. Cô ta viết tên tôi vào trong sổ tay, có lẽ là muốn xác nhận xem tôi có chuyện gì đáng ngờ không. Nhưng sau hôm đó đã không còn gặp lại cô ta nữa.\nGiờ nghĩ lại, có lẽ do tôi thường ngày hay yên lặng ngồi thiền nên người ta cảm thấy vô vị chăng.\n\n<:VisionCryo:725173419456462855> `Ganyu` Tuy tiểu thư Yelan có hơn 70% thời gian là trốn việc, nhưng Ningguang cho cô ấy đặc quyền này ắt hẳn có nguyên do. Do đây không phải là điều tôi thắc mắc nên nội dung trong đó tôi cũng không rõ. Nhưng mà, có ngày khi tôi đi về Nguyệt Hải Đình, có thấy cô ấy đang cười nói ăn điểm tâm và uống trà với mọi người. Trong thâm tâm của tôi... cũng có chút ngưỡng mộ.\n\n<:VisionElectro:725173420148654170> `Keqing` Tổ tông của tiểu thư Yelan từng làm việc cho Thất Tinh, ông nội tôi cũng từng hợp tác nghiên cứu học thuật với gia tộc của cô ấy. Nói chung thì cô ấy làm việc gọn gàng, rất đáng tin cậy, thường hay cung cấp tình báo quan trọng cho Tổng Vụ. Nhiều khi tôi cũng không hiểu, tiểu thư Yelan lấy những thông tin đó ở đâu nhỉ.\n\n<:VisionGeo:725174020831444994> `Ninguang` Cô ấy là một người thú vị, cũng là một người đáng để tin tưởng. Giỏi giang nhanh nhẹn, tiền đồ rộng mở. Haha, là người thông minh với nhau, hy vọng hai người có thể nói chuyện ăn ý.\n\n<:VisionAnemo:725173419133370390> `Xiao` Tôi nghe nói cô ấy từng điều tra những vết tích liên quan đến Thiên Nham Quân tại Vực Đá Sâu. Điều tra bí mật một mình như vậy, xem ra cũng là người có bản lĩnh.\n\n<:VisionHydro:725173420190597184> `Xingqiu` Bạn đã nghe qua câu \"trăm ngàn khuôn mặt\" chưa, cảm giác của tôi đối với tiểu thư Yelan là vậy đó. Khi đến thăm, cha và anh trai tôi cư xử tử tế, cô ấy cũng đối đãi lễ phép, trông như một đại tỷ thân thiện vậy. Nhưng khi tôi gặp cô ấy ở chỗ khác thì ấn tượng lại hoàn toàn khác xa.",
+      "color": 7644898
+    },
+    {
+      "title": "Câu Chuyện",
+      "description": "Công việc của Tổng Vụ Liyue là công khai và minh bạch, từ các quan chức cấp cao của Ngọc Kinh Đài đến các nhân viên cấp cơ sở của Bát Môn đều có thông tin cơ bản trong danh sách. Chỉ có Yelan là ngoại lệ. Hầu hết các đồng nghiệp chưa bao giờ nghe đến tên của cô ấy, cũng như tên của cô ấy không được tìm thấy trong bất kỳ danh sách nào. Điểm này khá phù hợp với phong cách riêng của Yelan, khó nắm bắt và hay thay đổi.\n\nCô ấy giống như một hồn ma, thường xuất hiện ở trung tâm của nhiều sự kiện dưới nhiều hình thức khác nhau, và biết mất trước khi cơn bão dừng lại. Đôi khi, sẽ có một bên nhận được sự trợ giúp của cô ấy, nhưng khi họ tự mãn, sự trợ giúp tương tự sẽ rất nhanh xuất hiện ở phía bên kia. Những người từng mắc bẫy của cô ấy đều nghiến răng nghiến lợi, nhưng dù là vậy, cũng chưa từng có ai nhìn thấu được ý đồ của cô ấy, huống hồ là nắm rõ lập trường.\n\nMột số người cho rằng cô ấy là mật thám của một thế lực bí ẩn nào đó, và sở trường của cô ấy là khuấy động mọi thứ trong bóng tối để đạt được điều mình muốn. Thậm chí có người còn khẳng định rằng cô ấy chỉ là kẻ theo đuôi ngoan cố, không có tổ chức nào, và cũng không có bất kỳ mục đích gì. Cho dù là có thì cũng chỉ là làm vẩn đục nước, làm cho ngọn lửa bùng lên dữ dội hơn, kéo tất cả mọi người vào thế giới điên rồ do cô ấy tạo ra mà thôi.\n\nGiữa những cuộc tranh luận, mọi thứ về cô ấy đã trở thành một câu đố. Sự thật là như thế nào, có lẽ chỉ có bản thân Yelan mới trả lời được. Nhưng rất tiếc, đây cũng không phỉa một chuyện dễ dàng gì. Trước khi cô ấy muốn gặp một ai đó, thì đối phương sẽ không bao giờ có thể tìm được cô ấy.",
+      "color": 7644898
+    },
+    {
+      "title": "Lồng Tiếng",
+      "description": "**Lần đầu gặp mặt...**\n#Xin chào nhà lữ hành, tôi là Yelan. Tôi nghĩ bạn có  có lẽ sẽ cần đến sự giúp đỡ của tôi, và tôi cũng có hứng thú với tình báo của cậu. Cho nên, chúng ta giúp đỡ lẫn nhau nhé.\n\n**Nói chuyện phiếm - Thân phận**\nHành tẩu trên thế gian này, nhiều \"thân phận\" một chút sẽ hay hơn. Cần tôi tạo giúp vài thân phận giả không?\n\n**Về bản thân Yelan - Chức Trách**\nThất Tinh nắm rõ tình hình mọi nơi tại Liyue, nhưng có một số tình báo phải dùng phương pháp đặc biệt để có được. Tôi xem như là người trong nghề của mảng này, cho nên loại công việc này trên cơ bản đã được tôi bao thầu hết rồi.\n\n**Bí mật**\n**Sở thích của Yelan...**\nKhi rảnh rỗi thì tôi sẽ sắp xếp sinh hoạt một cách ngẫu nhiên. Phương pháp rất đơn giản: Viết ra một danh sách rồi ném xúc xắc để quyết định việc muốn làm. Trò tiêu khiển này có thể mang đến nhiều thú vui bất ngờ, và nó cũng cho phép tôi mở rộng ranh giới trong suy nghĩ của mình, điều này cũng khá hữu ích cho công việc chính của tôi.\n\n**Món ăn yêu thích...**\nXay nhuyễn Ớt Tuyệt Vân khô và nhụy hoa của Túi Lưu Ly thành bột, trộn đều trong trà Vân Lai, tạo thành một bình trà ướp gia vị, hương thơm ngào ngạt của nó chắc chắn sẽ làm bạn say đắm. Tôi thích loại thức uống này hơn là cà phê hoặc rượu mạnh.\n\n**Có gì muốn chia sẻ không - Vòng Tay Kỳ Lạ**\nCái vòng bên tay phải sao? Nói bạn nghe cũng không sao... nó chứa thuật pháp của gia tộc tôi, có thể truyền đi những thông tin đơn giản. Còn về hàm ý của thông tin thì sẽ được giấu trong ánh sáng xanh, chỉ có tôi mới đọc hiểu được thôi.",
+      "color": 7644898,
+      "image": {
+        "url": "https://media.discordapp.net/attachments/851513289917726730/980539531684110437/unknown.png"
+      }
+    },
+    {
+      "title": "Thiên Phú",
+      "description": "Yelan là một nhân vật tấn công **nguyên tố Thuỷ** <:VisionHydro:725173420190597184> gây sát thương cao và có tính cơ động trong chiến đấu. Yelan có thể kéo \"Lạc Mệnh Tơ\" di chuyển nhanh trên chiến trường và đánh dấu kẻ địch trên đường đi, gây **Sát Thương Nguyên Tố Thuỷ** <:VisionHydro:725173420190597184> đòng thời có xác suất thêm trạng thái **Phá Trận** cho bản thân, cường hoá tụ lực ngắm bắn lần sau. **Xúc Xắc Tinh Tế** do kỹ năng nộ ngưng tụ ra sẽ liên tục hỗ trợ nhân vật trong trận, gây **Sát Thương Nguyên Tố Thuỷ** <:VisionHydro:725173420190597184> cao.\n\n**Nguyên liệu Đột phá Nhân vật**\n<:VarunadaLazuriteFragment:926147658752606238>  Vụn Thanh Kiêm Sạch\n<:RunicFang:978912956152696852> Bánh Răng Ấn Ký\n<:Starconch:927024508559298580> Ốc Sao\n<:RecruitsInsignia:926185492775600139> Phù Hiệu Tân Binh\n\n**Nguyên liệu Đột phá Thiên Phú**\n<:TeachingsofProsperity:926121021185097728> Bài Giảng Của \"Phồn Vinh\"\n<:RecruitsInsignia:926185492775600139> Phù Hiệu Tân Binh\n<:GildedScale:978912956236587028> Vảy Vàng",
+      "color": 7644898
+    },
+    {
+      "title": "Tấn Công Thường: Mũi Tên Lén Lút",
+      "description": "Có thể thực hiện tối đa 4 lần bắn liên tiếp\n\n**Trọng Kích**\nThực hiện nhắm bắn gây sát thương cao, chính xác hơn. Khi nhắm bắn, thuỷ lưu sẽ tích tụ liên tục trên mũi tên. Mũi tên tích đầy thuỷ lưu sẽ gây **Sát Thương Nguyên Tố Thuỷ** <:VisionHydro:725173420190597184>.\n\n**Phá Trận**\nSau khi rời khỏi chiến đấu 5s, Yelan sẽ nhận được trạng thái **Phá Trận**, thời gian tụ lực ngắm bắn lần sau sẽ giảm 80%, đồng thời sẽ bắn ra **Mũi Tên Phá Trận**, gây **Sát Thương Nguyên Tố Thuỷ** <:VisionHydro:725173420190597184> dựa trên **giới hạn HP của Yelan**.",
+      "color": 7644898,
+      "image": {
+        "url": "https://media.discordapp.net/attachments/587673289560817858/978953442632560640/Yelan1.gif"
+      }
+    },
+    {
+      "title": "Dây Sinh Mệnh Quanh Quần",
+      "description": "Kéo theo \"Lạc Mệnh Tơ\" di chuyển, đánh dấu kẻ địch trên đường. Khi kết thúc di chuyển, **Lạc Mệnh Tơ** sẽ phát nổ, gây **Sát Thương Nguyên Tố Thuỷ** <:VisionHydro:725173420190597184> lên kẻ địch đã đánh dấu dựa trên giới hạn HP của Yelan.\n\n**Nhấn**\nDi chuyển về phía trước.\n\n**Nhấn Giữ**\n Di chuyển liên tục, tăng kháng gián đoạn cho Yelan trong trạng thái này.\n Trong lúc đó, Yelan có thể điều khiển hướng di chuyển, đồng thời có thể thi triển kỹ năng lần nữa để kết thúc sớm trạng thái này.\n Ngoài ra, khi **Lạc Mệnh Tơ** phát nổ sẽ căn cứ vào số lượng kẻ địch bị đánh dấu mà Yelan có tỉ lệ nhận trạng thái **Phá Trận** khác nhau: Mỗi kẻ địch đánh dấu sẽ khiến tỉ lệ tăng 34%.",
+      "color": 7644898,
+      "image": {
+        "url": "https://media.discordapp.net/attachments/587673289560817858/978953441340706826/Yelan2.gif"
+      }
+    },
+    {
+      "title": "Xúc Xắc Toan Tính",
+      "description": "**Sát Thương Phạm Vi Nguyên Tố Thuỷ** <:VisionHydro:725173420190597184> và tạo ra \"Xúc Xắc Tinh Tế\" để hỗ trợ chiến đấu.\n\n**Xúc Xắc Tinh Tế**\n Đi theo nhân vật và sẽ hỗ trợ tấn công kẻ địch trong những trường hợp sau, gây **Sát Thương Nguyên Tố Thuỷ** <:VisionHydro:725173420190597184> dựa theo giới hạn HP của Yelan:\n • Nhân vật của bản thân trong trận hiện tại tấn công thường, mỗi 1s tối đa kích hoạt một lần.\n • Lạc Mệnh Tơ của Yelan khi phát nổ trúng kẻ địch sẽ hỗ trợ tấn công một lần.\n\nLạc Mệnh Tơ phát nổ đánh trúng địch Mở khoá thiên phú cố định **Thích Nghi Dễ Dàng** sẽ khiến sát thương do nhân vật trong trận gây ra tăng dần theo thời gian trong khi xúc xắc tồn tại Thế nên tôi mới nói là đừng gây sự với cô ấy!",
+      "color": 7644898,
+      "image": {
+        "url": "https://media.discordapp.net/attachments/587673289560817858/978953685767950346/Yelan3.gif"
+      }
+    },
+    {
+      "title": "Thiên phú cố định",
+      "description": "Thiên phú cố định khác của Yelan **Nắm Thế Chủ Động** sẽ giúp **giới hạn HP của Yelan** tăng lên dựa trên số lượng các loại nguyên tố khác nhau có mặt trong đội.\n\nVì Yelan hiểu rất rõ khu vực Liyue Nên khi Yelan làm nhiệm vụ **Phái Đi Thám Hiểm** có thời gian là 20 giờ ở Liyue, sẽ có thể **nhận thêm phần thưởng**.",
       "color": 7644898
     }
   ],
